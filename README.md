@@ -1,9 +1,9 @@
 Here's a README file for your project:
 
 ```markdown
-# Token-based Rewards and Loyalty Platform
+# Token-based Rewards ELECTRICITY BILL
 
-This project is a token-based rewards and loyalty platform. Users can earn and redeem points for various activities and rewards. The frontend is built using React and integrates with backend services to handle user registration, earning tokens, redeeming tokens, and fetching user data.
+This project is a token-based rewards and electricity bill. Users can earn and redeem points for various activities and rewards. The frontend is built using React and integrates with backend services to handle user registration, earning tokens, redeeming tokens, and fetching user data.
 
 ## Table of Contents
 
